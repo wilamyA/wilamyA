@@ -4,7 +4,7 @@
 
 ### 🤘 Este sou eu...
 <h6 align="center">
-  Também conhecido como Will, tenho 22 anos e curso Análise e desenvolvimento de sistemas. Atualmente sou estágiario na nuvolax, uma consultoria Alemã que presta serviços ServiceNow. Amo tecnologia e a vejo como principal ferramenta de transformação da sociedade. 
+  Também conhecido como Will, tenho 22 anos e curso Análise e desenvolvimento de sistemas. Atualmente sou estágiario no Itaú Unibanco. Amo tecnologia e a vejo como principal ferramenta de transformação da sociedade. 
 </h6>
 
 ----
